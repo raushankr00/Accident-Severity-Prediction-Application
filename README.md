@@ -12,7 +12,7 @@ Built a web application using Streamlit and deployed on Heroku.
 
 ## Check it out
 <<<<<<< HEAD
-https://traffic-severity-prediction.herokuapp.com/
+https://accidentservpredict.streamlit.app/
 =======
 
 >>>>>>> 4ee923a0aa1d3175dfb138a62b6a7590e513be25
@@ -30,7 +30,7 @@ based on the other 31 features.
 
 ## Description: 
 <<<<<<< HEAD
-This data set is [Road Traffic Accidents](https://www.kaggle.com/saurabhshahane/road-traffic-accidents) from Kaggle. The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident.
+This data set is [Road Traffic Accidents] from Kaggle. The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident.
 =======
 This data set is [Road Traffic Accidents]from Kaggle. The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident.
 >>>>>>> 4ee923a0aa1d3175dfb138a62b6a7590e513be25
