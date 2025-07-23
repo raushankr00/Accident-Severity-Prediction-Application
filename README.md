@@ -25,7 +25,7 @@ This is a multi-class classification problem where we are predicting the severit
 based on the other 31 features.
 
 ## Description: 
-This data set is [Road Traffic Accidents](https://www.kaggle.com/saurabhshahane/road-traffic-accidents) from Kaggle. The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident.
+This data set is [Road Traffic Accidents]from Kaggle. The data set has been prepared from manual records of road traffic accident of the year 2017-20. All the sensitive information have been excluded during data encoding and finally it has 32 features and 12316 instances of the accident.
 
 ### Exploratory Data Analysis:
 * Exploratory Data Analysis is the first step of understanding your data and acquiring domain knowledge. 
