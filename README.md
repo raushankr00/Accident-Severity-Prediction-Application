@@ -5,7 +5,7 @@
 
 
 ## Web Application: 
-Built a web application using Streamlit and deployed on Heroku.
+Built a web application using Streamlit and deployed on Streamlit.
 
 <img width="800" alt="image" src="doc/Demo.gif">
 
