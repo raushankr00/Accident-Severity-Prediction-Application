@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
 ![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
-![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
+
 
 ## Web Application: 
 Built a web application using Streamlit and deployed on Heroku.
